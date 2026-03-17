@@ -3,11 +3,12 @@
 ### Dépistage VIH accessible à Paris
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+
 ![HTML](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-build-646cff?style=flat-square&logo=vite&logoColor=white)
-![Éducatif](https://img.shields.io/badge/usage-%C3%A9ducatif-green?style=flat-square)
 
+![Capture d'écran de l'application Adataviz montrant la liste des laboratoires](src/assets/screen_shot_home_page.png)
+![](src/assets/screen_shot_home_page_footer.png)
 ---
 
 Adataviz est une application web conçue pour faciliter l'accès à l'information sur le dépistage du VIH à Paris. Développée dans le cadre d'un projet solo utilisant exclusivement du `JavaScript Vanilla`, HTML et CSS, elle permet de localiser rapidement les laboratoires effectuant des tests **sans ordonnance**.
