@@ -7,7 +7,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
 
-## ![Description](https://github.com/Candichou/Adataviz_Depistage_VIH_accessible_a_Paris/blob/main/src/assets/screen_shot_home_page.png?raw=true)
+## ![Description](https://github.com/Candichou/Adataviz_Depistage_VIH_accessible_a_Paris/adatviz-candichou/blob/main/src/assets/screen_shot_home_page.png?raw=true)
 
 Adataviz est une application web conçue pour faciliter l'accès à l'information sur le dépistage du VIH à Paris. Développée dans le cadre d'un projet solo utilisant exclusivement du `JavaScript Vanilla`, HTML et CSS, elle permet de localiser rapidement les laboratoires effectuant des tests **sans ordonnance**.
 
