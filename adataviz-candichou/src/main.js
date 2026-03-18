@@ -2,7 +2,7 @@ import "./style.css";
 
 const app = document.getElementById("app");
 let offset = 0;
-const limit = 20;
+const limit = 5;
 let allLaboratories = [];
 
 /* ----------------------------------------------
