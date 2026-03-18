@@ -2,12 +2,9 @@
 
 ### Dépistage VIH accessible à Paris
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+## ![visuel1](./adataviz-candichou/src/assets/screen_shot_home_page.png)
 
-![HTML](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
-
-## ![Description](./adataviz-candichou/src/assets/screen_shot_home_page.png)
+## ![visuel2](./adataviz-candichou/src/assets/screen_shot_home_page_footer.png)
 
 Adataviz est une application web conçue pour faciliter l'accès à l'information sur le dépistage du VIH à Paris. Développée dans le cadre d'un projet solo utilisant exclusivement du `JavaScript Vanilla`, HTML et CSS, elle permet de localiser rapidement les laboratoires effectuant des tests **sans ordonnance**.
 
@@ -31,18 +28,9 @@ La version actuelle offre une expérience fluide et légère, optimisée pour la
 
 ## 🛠 Installation et lancement
 
-Ce projet utilise **Vite** comme outil de build. Vous aurez besoin de `Node.js` installé sur votre machine.
+Ce projet utilise **Vite** version "7.2.4" comme outil de build. Vous aurez besoin de `Node.js` installé sur votre machine.
 
-**1. Cloner le dépôt**
-
-```bash
-git clone https://github.com/votre-utilisateur/adataviz.git
-cd adataviz
-```
-
-**2. Installer les dépendances**
-
-Avec `pnpm` (recommandé) :
+**Installer les dépendances**
 
 ```bash
 pnpm install
@@ -54,15 +42,13 @@ Ou avec `npm` :
 npm install
 ```
 
-**3. Lancer le serveur de développement**
+**Lancer le serveur de développement**
 
 ```bash
 pnpm run dev
 # ou
 npm run dev
 ```
-
-L'application sera accessible via l'URL locale indiquée dans le terminal (généralement `http://localhost:5173`).
 
 ---
 
@@ -79,7 +65,3 @@ Le projet est en évolution constante. Les prochaines itérations viseront à re
 ## 🤝 Contribution
 
 Bien que ce soit un projet solo académique pour le moment, les retours sur l'accessibilité ou l'optimisation du code Vanilla JS sont les bienvenus via les **Issues GitHub**.
-
-## 📄 Licence
-
-Ce projet est développé à but éducatif et informatif.
