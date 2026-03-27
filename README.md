@@ -20,13 +20,25 @@ La version actuelle offre une expérience fluide et légère, optimisée pour la
 | **Affichage optimisé**    | Chargement progressif ("Voir plus") pour afficher davantage de résultats sans ralentir l'interface. |
 | **Cartes interactives**   | Présentation claire des laboratoires sous forme de cartes informatives.                             |
 | **Détails contextuels**   | Bouton "Voir les horaires" pour dévoiler les plages d'ouverture à la demande.                       |
-| **Données officielles**   | Utilisation des API ouvertes de la Ville de Paris pour des données à jour.                          |
+| **Données officielles**   | Consommation de l'**API REST Open Data de la Ville de Paris** (OpenDataSoft — licence ODbL) pour des données publiques, gratuites et à jour.
+                    |
+---
+
+## 🛠 Stack technique
+ 
+| Technologie | Usage |
+|---|---|
+| JavaScript Vanilla | Logique applicative & manipulation du DOM |
+| HTML / CSS | Structure & styles |
+| API REST Open Data Paris | Source de données publiques (OpenDataSoft, licence ODbL) |
+| Vite | Outil de build & serveur de développement |
+| Vercel | Déploiement |
 
 ---
 
 ## 🛠 Installation et lancement
 
-Ce projet utilise **Vite** version "7.2.4" comme outil de build. Vous aurez besoin de `Node.js` installé sur votre machine.
+Ce projet utilise **Vite** comme outil de build. Vous aurez besoin de `Node.js` installé sur votre machine.
 
 **Installer les dépendances**
 
