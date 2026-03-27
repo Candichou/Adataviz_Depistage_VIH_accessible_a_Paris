@@ -55,14 +55,14 @@ function displayLaboratories(laboratories) {
 
     const containerActions = document.createElement("div");
     const btnSchedules = document.createElement("button");
-    const btnGo = document.createElement("button");
+    /*   const btnGo = document.createElement("button"); */
 
     title.textContent = laboratory.liste;
     name.textContent = laboratory.laboratoire;
     adresse.textContent = `${laboratory.adresse}, ${laboratory.code_postal}`;
     telephone.textContent = laboratory.telephone;
     horaires.textContent = laboratory.horaires;
-    btnGo.textContent = "GO";
+    /*     btnGo.textContent = "GO"; */
 
     /* ------------------------------------------
   ********* ACTION BOUTON HORAIRES ************
@@ -90,7 +90,7 @@ function displayLaboratories(laboratories) {
     containerActions.classList.add("card-actions");
 
     containerActions.appendChild(btnSchedules);
-    containerActions.appendChild(btnGo);
+    /*     containerActions.appendChild(btnGo); */
 
     listContainer.appendChild(listLabo);
   });
